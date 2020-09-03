@@ -1,1 +1,2 @@
-Employee Sample
+class Employee{
+}
